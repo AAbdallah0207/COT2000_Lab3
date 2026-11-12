@@ -1,1 +1,85 @@
-# COT2000_Lab3
+# COT2000 Lab 3 - Python Programming
+
+## Project Overview
+
+This repository contains my Python programming assignment for COT2000.
+
+The project demonstrates basic Python programming concepts, including:
+
+- Variables
+- Sets
+- Printing output
+- Arithmetic operations
+- GitHub version control
+
+## Student Information
+
+**Name:** Ali Abdallah
+
+**Course:** COT2000 - Foundations of Computing
+
+**Semester:** Fall 2026
+
+## Python Program
+
+The program stores a student's name, creates a set of numbers, and prints information in the terminal.
+
+It also calculates the sum of the numbers using Python's `sum()` function.
+
+### Source Code
+
+```python
+name = "Ali Abdallah"
+numbers = {18, 26, 3, 4, 5}
+
+print("Student:", name)
+print("Numbers:", numbers)
+print("Total:", sum(numbers))
+```
+
+## Expected Output
+
+The program displays the student's name, the set of numbers, and their total.
+
+The total is **56**.
+
+## How to Run the Program
+
+1. Open the repository in VS Code.
+2. Open the `Lab3.py` file.
+3. Select **Run Python File**.
+4. View the results in the Terminal.
+
+## Project Files
+
+| File | Purpose |
+| --- | --- |
+| `Lab3.py` | Python source code |
+| `README.md` | Project documentation |
+
+## What I Learned
+
+- How to create Python variables.
+- How to work with Python sets.
+- How to display program output.
+- How to calculate a sum.
+- How to use GitHub for version control.
+- How to write Markdown documentation.
+
+## Project Checklist
+
+- [x] Create GitHub repository
+- [x] Upload Python program
+- [x] Modify program in VS Code
+- [x] Complete README documentation
+- [x] Commit README changes
+
+## Resources
+
+[Python Documentation](https://docs.python.org/3/)
+
+[GitHub](https://github.com)
+
+## Reminder
+
+> Good documentation helps other developers understand your project.
